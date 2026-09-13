@@ -37,6 +37,7 @@ Traffic Density Analysis
 Traffic Analytics
       ↓
 Annotated Video + CSV
+```
 
 ## 🛠️ Technologies Used
 
